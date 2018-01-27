@@ -18,7 +18,7 @@
 	<div class="row">	
 <!--left col -->      <div class="col-md-1"></div> <!--left col -->
 	
-	    <div class="col-md-10 bg-white">          
+	    <div class="col-md-10">          
                                              <!-- start your code from here-->
 		
 		
