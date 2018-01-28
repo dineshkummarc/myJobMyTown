@@ -144,7 +144,9 @@ Sallery P. A.&nbsp;
  
 <input type ="submit" value="Post Now" class=" btn btn-large bg-success text-white" >
 &nbsp;or&nbsp;
-<button type ="btn" class="btn bg-danger text-white"  href="#">Add to Draft</button> 
+<button type ="btn" class="btn bg-danger text-white"  href="#">Add to Draft</button> <br>
+
+<span class ="text-center">"By posting this job, you agree to <a href="#">Terms of Use </a> and <a href="#">Privacy Policy<a>. If you have any issues, please write to help@myjobmytown.com"</span>
  
  
  

@@ -20,7 +20,7 @@
 	
 	    <div class="col-md-8">          
                                              <!-- start your code from here-->
-	       <div class="container-fluid">
+	       <div class="container-fluid p-2 my-2">
            <div class="row">
              <div class="col-md-2 bg-white">
               <h5>Filters</h5>
@@ -50,13 +50,20 @@
                 </select>
              </div>
              <div class="col-md-10">
-                <div class="container bg-white mb-2">
+                <div class="container bg-white mb-2 px-3 py-2">
                   <a href="#"><h5>Software Engineer</h5></a><p>Wolters Kluwer India Pvt Ltd</p>
                   <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span>
                   <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
                   <span class="text-muted">Keyskills:</span><p>html, javascript, css, jquery, classic asp, ms sql server, asp.net, java...</p>
-                  <span class="text-muted">Job Description:</span><p>Position: Software Engineer Reports to: Chief Technology Officer, Systems Location: Mumbai, ...</p>                  <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-inr" aria-hidden="true"> Not disclosed</i>
+                  <span class="text-muted">Job Description:</span><p>Position: Software Engineer Reports to: Chief Technology Officer, Systems Location: Mumbai, ...</p>                  
+				  <div class="row">
+				  <div class="col-md text-left">
+				  <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-inr" aria-hidden="true"> Not disclosed</i>
+				  </div>
+				  <div class="col-md text-right">
                   <button type="button" class="btn btn-outline-primary btn-sm float-right">Apply Now</button>
+				  </div> 
+				  </div> 
                 </div> 
 
                 <div class="container bg-white mb-2">
@@ -95,7 +102,7 @@
 												
  </div> 
 	
-<!--right col -->      <div class="col-md-1"></div> <!--right col -->
+<!--right col -->      <div class="col-md-2"></div> <!--right col -->
 					  
 	</div>					  
   <!--footer-->

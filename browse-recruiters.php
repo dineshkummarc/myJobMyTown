@@ -27,7 +27,7 @@
 	<div class="row text-center">
 	
 	  <div class="col-md ">
-	  <img src = "images/r-i-1.jpg" class = "img-fluid p-4 rounded-circle"><br>
+		<br>
 	 
 	 <a href ="#"> <b>William</b></a><br>
 	  <u>Hr Manager</u><br>
