@@ -227,29 +227,68 @@ Industries:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <thead>
     <tr >
       
-      <th class="w-100">First Name</th>
-	  <th class="w-100"></th>
+      <th><button type ="button" class="" >Delete</button></th>
+	  <th></th>
+	  <th></th>
      
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><input type="checkbox" name="vehicle" value="Bike">&nbsp;jakljfkajkfjafkj</th>
-      <td class="w-25">Mark</td>
-      <td>Otto</td>
-      
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Mark<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">7:29 pm </td>
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>William<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right"> 9:01 am </td>
     </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 28</td>
     </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 25 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 20 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 18 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 15 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 10 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 8 </td>
+    </tr>
+    
+     
   </tbody>
 </table>
 	
@@ -260,6 +299,91 @@ Industries:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	  
 	  </div>
 				                   <!--inbox ends-->  								   
+								   
+								   
+				                   <!--sent starts-->  								   
+	<div class="container-fluid p-2  bg-white tabcontent" id="Inbox">
+
+
+      <h3>Inbox</h3><hr>
+	  
+	  <table class="table table-hover table-inverse">
+  <thead>
+    <tr >
+      
+      <th><button type ="button" class="" >Delete</button></th>
+	  <th></th>
+	  <th></th>
+     
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Mark<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">7:29 pm </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>William<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right"> 9:01 am </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 28</td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 25 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 20 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 18 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 15 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 10 </td>
+    </tr>
+	
+	<tr>
+      <td class="w-25"><input type="checkbox" name="vehicle" value="Bike">&nbsp;<b>Lara<b></td>
+      <td class="w-50"> Job Application - <span class="text-muted">xyz applied for a job. please....</span> </td>
+      <td class="text-right">jan 8 </td>
+    </tr>
+    
+     
+  </tbody>
+</table>
+	
+	
+	
+	
+	  
+	  
+	  </div>							   
+								   
+				                   <!--sent ends-->  								   
 				  
                 
 
