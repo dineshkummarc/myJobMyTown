@@ -53,6 +53,7 @@
                 <p>IT Management</p><p>ESM</p><p>Software</p><p>Polaris</p>
              </div>
              <div class="col-md-10">
+                
                 <div class="container bg-white mb-2 px-3 py-2">
                   <a href="#"><h5>Software Engineer</h5></a><p>Wolters Kluwer India Pvt Ltd</p>
                   <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span>
@@ -68,6 +69,22 @@
 				  </div> 
 				  </div> 
                 </div> 
+
+					<div class="container bg-white mb-2 px-3 py-2">
+					  <a href="#"><h5>Software Engineer</h5></a><p>Wolters Kluwer India Pvt Ltd</p>
+					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span>
+					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
+					  <span class="text-muted">Keyskills:</span><p>html, javascript, css, jquery, classic asp, ms sql server, asp.net, java...</p>
+					  <span class="text-muted">Job Description:</span><p>Position: Software Engineer Reports to: Chief Technology Officer, Systems Location: Mumbai,...</p>                  
+					  <div class="row">
+					  <div class="col-md text-left">
+					  <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-inr" aria-hidden="true"> Not disclosed</i>
+					  </div>
+					  <div class="col-md text-right">
+					  <button type="button" class="btn btn-outline-primary btn-sm float-right">Apply Now</button>
+					  </div> 
+					  </div> 
+					</div> 
 
                 <div class="container bg-white mb-2 px-3 py-2">
                   <a href="#"><h5>.Net Software Engineer - MAOS</h5></a><p>BNP Paribas India Solutions Pvt. Ltd.</p>
