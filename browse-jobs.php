@@ -27,48 +27,51 @@
 	<div class="row text-center">
 	
 	  <div class="col-md ">
-	  <img src = "images/r-i-1.jpg" class = "img-fluid p-4 rounded-circle"><br>
-	 
-	 <a href ="#"> <b>William</b></a><br>
-	  <u>Hr Manager</u><br>
-	  Global Solutions<br>
-	  Active Jobs-30 
+	  <div class="container bg-white mb-2 px-3 py-2">
+					  <a href="#"><h6>Software Engineer</h6></a>
+					  Wolters Kluwer India Pvt Ltd<br>
+					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
+					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
+					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
+					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  
+					</div> 
 	  </div>
 	  
 	  <div class="col-md ">
-	  <img src = "images/r-i-2.jpg" class = "img-fluid p-4 rounded-circle"><br>
-	 
-	 <a href ="#"> <b>William</b></a><br>
-	  <u>Hr Manager</u><br>
-	  Global Solutions<br>
-	  Active Jobs-30 
+	  <div class="container bg-white mb-2 px-3 py-2">
+					  <a href="#"><h6>Software Engineer</h6></a>
+					  Wolters Kluwer India Pvt Ltd<br>
+					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
+					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
+					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
+					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  
+					</div> 
 	  </div>
 	  
 	  <div class="col-md ">
-	  <img src = "images/r-i-3.jpg" class = "img-fluid p-4 rounded-circle"><br>
-	 
-	 <a href ="#"> <b>William</b></a><br>
-	  <u>Hr Manager</u><br>
-	  Global Solutions<br>
-	  Active Jobs-30 
+	  <div class="container bg-white mb-2 px-3 py-2">
+					  <a href="#"><h6>Software Engineer</h6></a>
+					  Wolters Kluwer India Pvt Ltd<br>
+					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
+					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
+					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
+					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  
+					</div> 
 	  </div>
 	  
 	  <div class="col-md ">
-	  <img src = "images/r-i-1.jpg" class = "img-fluid p-4 rounded-circle"><br>
-	 
-	 <a href ="#"> <b>William</b></a><br>
-	  <u>Hr Manager</u><br>
-	  Global Solutions<br>
-	  Active Jobs-30 
-	  </div>
-	  
-	  <div class="col-md ">
-	  <img src = "images/r-i-2.jpg" class = "img-fluid p-4 rounded-circle"><br>
-	 
-	 <a href ="#"> <b>William</b></a><br>
-	  <u>Hr Manager</u><br>
-	  Global Solutions<br>
-	  Active Jobs-30 
+	  <div class="container bg-white mb-2 px-3 py-2">
+					  <a href="#"><h6>Software Engineer</h6></a>
+					  Wolters Kluwer India Pvt Ltd<br>
+					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
+					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
+					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
+					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  
+					</div> 
 	  </div>
 	  
 	  <div class ="container-fluid w-100"><button class="btn btn-small p-1 m-1 float-right bg-primary text-white" href="#">View More</a></div> <br>
