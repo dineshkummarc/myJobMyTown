@@ -4,7 +4,7 @@
 }
 
 
-                  /*profile tab styling*/
+											/*profile tab styling*/
 				  
 * {box-sizing: border-box}
 
@@ -36,4 +36,28 @@
 .tab button.active {
     background-color: #ccc;
 }
+
+
+																	/*cover*/
+.stse-cover{height: 400px;
+            position:relative;
+			
+}									  
+
+.stse-img{height:400px;
+         position:absolute;
+		 
+}               
+/*overlay*/
+.stse-ov{height: 400px;
+             position: relative	; 
+			 opacity:.3;
+}
 				  
+.stse-ov-text{margin: 0;
+              position: absolute;
+			  top: 50%;
+			  left:50%;
+			  -ms-transform: translate(-50%, -50%);
+			  transform: translate(-50%, -50%);
+}				  

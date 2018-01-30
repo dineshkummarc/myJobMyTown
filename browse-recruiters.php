@@ -14,12 +14,17 @@
   <?php include_once "header.php"; ?>
   <!--end of navbar-->
         
-<div class="container-fluid my-4 p-0">
+<div class="container-fluid my-4">
 	<div class="row">	
 <!--left col -->      <div class="col-md-1"></div> <!--left col -->
 	
 	    <div class="col-md-10 ">          
                                              <!-- start your code from here-->
+											 
+											 
+										
+					   
+					   
 											 
 					                              <!-- top Recruiters -->			
    <div class="container-fluid my-2 bg-white">												  
@@ -71,8 +76,10 @@
 	  Active Jobs-30 
 	  </div>
 	  
-	  <div class ="container-fluid w-100"><button class="btn btn-small p-1 m-1 float-right bg-primary text-white" href="#">View More</a></div> <br>
-	  </div>
+	  <div class ="container-fluid w-100">
+	  <a href="recruiters-list.php" class="btn btn-md p-1 m-1 float-right bg-primary text-white"  role="button">View More</a></div><br>
+	  
+	 </div>
 	  
 	  
 	  
@@ -138,7 +145,8 @@
 	  </div>
 	 
 	  
-	  <div class ="container-fluid w-100"><button class="btn btn-small p-1 m-1 float-right bg-primary text-white" href="#">View More</a></div> <br>
+	  <div class ="container-fluid w-100">
+	  <a href="recruiters-list.php" class="btn btn-md p-1 m-1 float-right bg-primary text-white"  role="button">View More</a></div><br>
 	  </div>
 	 
 	  </div>	                                          
@@ -186,7 +194,8 @@
 	  </div>
 	 
 	  
-	  <div class ="container-fluid w-100"><button class="btn btn-small p-1 m-1 float-right bg-primary text-white" href="#">View More</a></div> <br>
+	  <div class ="container-fluid w-100">
+	  <a href="recruiters-list.php" class="btn btn-md p-1 m-1 float-right bg-primary text-white"  role="button">View More</a></div><br>
 	  </div>
 	 
 	  </div>
@@ -249,7 +258,8 @@
 	  </div>
 	 </div>
 	
-	<div class ="container-fluid w-100"><button class="btn btn-small p-1 m-1 float-right bg-primary text-white" href="#">View More</a></div> <br>
+	<div class ="container-fluid w-100">
+	  <a href="recruiters-list.php" class="btn btn-md p-1 m-1 float-right bg-primary text-white"  role="button">View More</a></div><br>
 	  </div>
 	  
 	 
@@ -258,9 +268,7 @@
 	  </div>
 	 
 	    
- 	                                              
-	
-		
+ 	                               
 		
 			
 		
