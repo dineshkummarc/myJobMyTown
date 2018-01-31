@@ -13,8 +13,10 @@
   <!--navbar-->
   <?php include_once "header.php"; ?>
   <!--end of navbar-->
+  
+  <?php include_once "cover.php";?>
         
-<div class="container-fluid my-4">
+<div class="container-fluid my-2">
 	<div class="row">	
 <!--left col -->      <div class="col-md-1"></div> <!--left col -->
 	
