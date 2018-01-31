@@ -7,11 +7,11 @@
 
 
 
-<<<<<<< HEAD
-<script src= "node_modules/jquery/dist/jquery.slim.min.js" ></script>
-=======
+
+
+
 <script src= "node_modules/jquery/dist/jquery.slim.min.js"></script>
->>>>>>> 87f39624a84460850d15dca8a7d413c44c561fa5
+
 <script src= "node_modules/bootstrap/dist/js/bootstrap.min.js" ></script>
 
 

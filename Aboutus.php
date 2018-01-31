@@ -28,7 +28,7 @@
 	              
                                              <!-- start your code from here-->
 		
-	<div class="container-fluid">
+
       <div class="row">
       <div class="col-md-1">
       </div>
@@ -65,33 +65,127 @@
 
 
   </div>
- </div>
 
-    <div class="container-fluid">
+
+
 
       <div class="row">
 
         <div  class="col-md-1">
         </div>
 
-         <div  class="col-md-4">
-          <div class="card mt-5" style="width: 20rem;">
-  <img class="card-img-top" src="images/member.jpg" alt="Card image cap">
-  <div class="card-block">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+
+         <div  class="col-md-10">
+
+          <h1 class="mt-4">Our Team</h1><hr>
+          <div class="row">
+<!-- first card -->
+  
+            <div class="col-md-4">
+            <div class="card mt-5">
+            <img class="card-img-top" src="images/member.jpg"  alt="Card image cap">
+            <div class="card-block">
+            <Center><h4 class="card-title">Card title</h4>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p></Center>
+                      
+         </div>
+      </div>
+    </div>
+    
+      
+<!-- second card -->
+      <div class="col-md-4">
+       <div class="card mt-5">
+       <img class="card-img-top" src="images/member.jpg" alt="Card image cap">
+       <div class="card-block">
+       <Center><h4 class="card-title">Card title</h4>
+       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p></Center>
+    </div>
+     </div>
+    </div>
+
+ <!-- third card -->
+  <div class="col-md-4">
+ <div class="card mt-5" ">
+       <img class="card-img-top" src="images/member.jpg" alt="Card image cap">
+       <div class="card-block">
+       <Center><h4 class="card-title">Card title</h4>
+       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p></Center>
+   
+     </div>
+    </div>
   </div>
+ </div>
+      
+
 </div>
+
         </div>
-        <div  class="col-md-4">
+       
+
+
+
+
+
+
+       <div class="row">
+
+        <div  class="col-md-1">
         </div>
-        <div  class="col-md-4">
+
+
+         <div  class="col-md-10">
+
+        
+          <div class="row">
+<!-- first card -->
+  
+            <div class="col-md-4">
+            <div class="card mt-5">
+            <img class="card-img-top" src="images/member.jpg"  alt="Card image cap">
+            <div class="card-block">
+            <Center><h4 class="card-title">Card title</h4>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p></Center>
+                      
+         </div>
+      </div>
+    </div>
+    
+      
+<!-- second card -->
+      <div class="col-md-4">
+       <div class="card mt-5">
+       <img class="card-img-top" src="images/member.jpg" alt="Card image cap">
+       <div class="card-block">
+       <Center><h4 class="card-title">Card title</h4>
+       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p></Center>
+    </div>
+     </div>
+    </div>
+
+ <!-- third card -->
+  <div class="col-md-4">
+ <div class="card mt-5" ">
+       <img class="card-img-top" src="images/member.jpg" alt="Card image cap">
+       <div class="card-block">
+       <Center><h4 class="card-title">Card title</h4>
+       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p></Center>
+   
+     </div>
+    </div>
+  </div>
+ </div>
+      
+
+</div>
+
         </div>
+       
+       
          <div  class="col-md-1">
         </div>
       </div>
-    </div>
+    
 		
 
 
