@@ -74,7 +74,9 @@
 					</div> 
 	  </div>
 	  
-	  <div class ="container-fluid w-100"><button class="btn btn-small p-1 m-1 float-right bg-primary text-white" href="#">View More</a></div> <br>
+	  <div class ="container-fluid w-100">
+	  <a href="joblist.php" class="btn btn-md p-1 m-1 float-right bg-primary text-white"  role="button">View More</a></div><br>
+	  
 	  </div>
 	  
 	  

@@ -130,6 +130,7 @@
           </div><span class="text-muted">Posted by <a href="#"> Shivani Sharma </a> , 30 days ago</span>
           <div class="col-md text-right">
                   <button type="button" class="btn btn-outline-primary btn-sm float-right">Apply Now</button>
+				  
           </div> 
           </div>  
                 </div>

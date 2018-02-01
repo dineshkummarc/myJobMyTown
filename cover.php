@@ -17,7 +17,8 @@
       <input type="text" class="form-control w-50" placeholder="find a job...." >
 	  <input type="text" class="form-control" placeholder="Location &#xf041;" style="font-family:Arial, FontAwesome;">
       <span class="input-group-btn">
-        <button class="btn btn-secondary" type="button">Go!</button>
+        
+		<a href="joblist.php" class="btn btn-secondary "  role="button">Go</a>
       </span>
     </div>
                  </span> 

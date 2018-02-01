@@ -82,14 +82,18 @@
 				  </div>
 				  <div class="col-md text-right text-muted">
 				  2256 followers &nbsp;
-                  <button type="button" class="btn btn-outline-primary btn-sm float-right">Follow</button>
+                  <button type="button"  id="afollow"  onclick="afollow()" class="btn btn-outline-primary btn-sm float-right">Follow</button>
 				  </div> 
 				  
 				  </div> 
 				  </div>
 
 
-                  
+                 
+
+
+
+
 				  
 				  
 				  
@@ -128,7 +132,7 @@
 				  </div>
 				  <div class="col-md text-right text-muted">
 				  2256 followers &nbsp;
-                  <button type="button" class="btn btn-outline-primary btn-sm float-right">Follow</button>
+                  <button type="button" id="bfollow"  onclick="bfollow()" class="btn btn-outline-primary btn-sm float-right">Follow</button>
 				  </div> 
 				  
 				  </div> 
@@ -175,7 +179,7 @@
 				  </div>
 				  <div class="col-md text-right text-muted">
 				  2256 followers &nbsp;
-                  <button type="button" class="btn btn-outline-primary btn-sm float-right">Follow</button>
+                  <button type="button"  id="cfollow"  onclick="cfollow()" class="btn btn-outline-primary btn-sm float-right">Follow</button>
 				  </div> 
 				  
 				  </div> 
@@ -222,7 +226,7 @@
 				  </div>
 				  <div class="col-md text-right text-muted">
 				  2256 followers &nbsp;
-                  <button type="button" class="btn btn-outline-primary btn-sm float-right">Follow</button>
+                  <button type="button"  id="dfollow"  onclick="dfollow()" class="btn btn-outline-primary btn-sm float-right">Follow</button>
 				  </div> 
 				  
 				  </div> 
@@ -269,7 +273,7 @@
 				  </div>
 				  <div class="col-md text-right text-muted">
 				  2256 followers &nbsp;
-                  <button type="button" class="btn btn-outline-primary btn-sm float-right">Follow</button>
+                  <button type="button"  id="efollow"  onclick="efollow()" class="btn btn-outline-primary btn-sm float-right">Follow</button>
 				  </div> 
 				  
 				  </div> 
@@ -323,5 +327,36 @@
   <!-- end of footer-->    
   </div>
   <?php include_once "script.php"; ?>
+  
+  <script>
+function afollow() {
+    
+    document.getElementById("afollow").innerHTML = "unfollow";
+}
+
+function bfollow() {
+    
+    document.getElementById("bfollow").innerHTML = "unfollow";
+}
+
+function cfollow() {
+    
+    document.getElementById("cfollow").innerHTML = "unfollow";
+}
+
+function dfollow() {
+    
+    document.getElementById("dfollow").innerHTML = "unfollow";
+}
+
+function efollow() {
+    
+    document.getElementById("efollow").innerHTML = "unfollow";
+}
+
+
+
+</script> 
+  
   </body>
 </html>
