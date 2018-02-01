@@ -22,39 +22,64 @@
                                              <!-- start your code from here-->
 	       <div class="container-fluid p-2 my-2">
            <div class="row">
-             <div class="col-md-2 bg-white">
-              <h5>Filters</h5>
-               <select>
-                  <option value="volvo">Select</option>
-                  <option value="saab">Saab</option>
-                  <option value="opel">Opel</option>
-                  <option value="audi">Audi</option>
-                </select>
-                <select>
-                  <option value="volvo">Select</option>
-                  <option value="saab">Saab</option>
-                  <option value="opel">Opel</option>
-                  <option value="audi">Audi</option>
-                </select>
-                <select>
-                  <option value="volvo">Select</option>
-                  <option value="saab">Saab</option>
-                  <option value="opel">Opel</option>
-                  <option value="audi">Audi</option>
-                </select>
-                <select>
-                  <option value="volvo">Select</option>
-                  <option value="saab">Saab</option>
-                  <option value="opel">Opel</option>
-                  <option value="audi">Audi</option>
-                </select>
+                                                      <!--filters-->
+             <div class="col-md-2 bg-white p-3">
+              <h5>Filters</h5><hr>
+			  
+			  <h6>Active</h6>
+               <select class="w-100">
+                  <option value="des">Last 30 days</option>
+                  <option value="saab">Last 15 days</option>
+                  <option value="opel">Last 7 days</option>
+                  <option value="audi">Last 3 days</option>
+                  <option value="">Today</option>
+                </select></br></br>
+				
+				
+				<h6>Location</h6>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Mumbai</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Puna</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Chennai</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Bengaluru</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Chennai</br></br>
+					
+					
+					<h6>Top Companies</h6>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Google</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Microsoft</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Facebook</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Netflix</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Suco</br></br>
+				
+				 <h6>Industry</h6>
+               <select class="w-100">
+                  <option value="des">IT-Hardware</option>
+                  <option value="saab">IT-Software</option>
+                  <option value="opel">BPO</option>
+                  <option value="audi">Banking</option>
+                  <option value="">Staffing</option>
+                </select></br></br>
+				
+				
+				
+				<h6>Education</h6>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;SSLc</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;PUC</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Any Degree</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;PG</br>
+					<input type="checkbox" name="bike1" value="hero">&nbsp;Other</br></br>
+					
+				
              </div>
 			 
 			                                            <!--Recruiters list-->
              <div class="col-md-10">
 			 
+			  <div class="container bg-white mb-2 px-3 py-2"><h4>Recruiters</h4></div>
+			 
 			 
 			   <div class="container bg-white mb-2 px-3 py-2">
+			   
 			   
 			   
 				       <div class="row">
@@ -110,7 +135,7 @@
 				       <div class="row">
 					     <div class="col-md-3 text-center">
 						 <img src = "images/r-i-2.jpg" class = "img-fluid  rounded-circle">
-						 <a href="#"><h5 >Jan Koum </h5></a>
+						 <a href="#"><h5 >Carolina </h5></a>
 						 <u class="text-muted">Hr Manager</u><br>
 						 
 						 </div>

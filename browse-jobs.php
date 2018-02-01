@@ -33,7 +33,7 @@
 					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
 					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
 					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
-					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  <a href="job-description.php" class="btn btn-outline-primary btn-sm "  role="button">View</a>
 					  
 					</div> 
 	  </div>
@@ -45,7 +45,7 @@
 					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
 					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
 					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
-					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  <a href="job-description.php" class="btn btn-outline-primary btn-sm "  role="button">View</a>
 					  
 					</div> 
 	  </div>
@@ -57,7 +57,7 @@
 					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
 					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
 					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
-					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  <a href="job-description.php" class="btn btn-outline-primary btn-sm "  role="button">View</a>
 					  
 					</div> 
 	  </div>
@@ -69,7 +69,7 @@
 					  <i class="fa fa-briefcase" aria-hidden="true"></i><span> 4-7 yrs</span><br>
 					  <i class="fa fa-map-marker" aria-hidden="true"></i><span> Mumbai(Marol)</span><br>
 					  <span class="text-muted">Keyskills:</span><br>html, javascript, css...<br><br>
-					  <button type="button" class="btn btn-outline-primary btn-sm ">View</button>
+					  <a href="job-description.php" class="btn btn-outline-primary btn-sm "  role="button">View</a>
 					  
 					</div> 
 	  </div>
