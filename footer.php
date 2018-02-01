@@ -63,5 +63,5 @@
 
 </div>
 <hr color="White">
-<center><p style="padding-bottom: 15px;"><font color="">&copy;All rights Reserved by : <a href="http://sourceuscorporation.com/"><b>SUCO TECHNOLOGIES.</b></a></font></p></center>
+<center><p style="padding-bottom: 5px;"><font color="">&copy;All rights Reserved by : <a href="http://sourceuscorporation.com/"><b>SUCO TECHNOLOGIES.</b></a></font></p></center>
 </footer>
