@@ -23,7 +23,7 @@
     <div class="col-md-3">
     </div>
 
-    <div class="col-md-6" id="sab-login1">
+    <div class="col-md-6 offset" id="sab-login1">
 
 <div class="row" >
   <div class="col-md-4" style="background-color:#2874F0; ">
@@ -83,7 +83,7 @@
     <div class="col-md-6 mt-5" id="sab-signup" "> 
 
 
-<div class="row">
+<div class = "row">
   <div class="col-md-4" style="background-color:#2874F0; ">
     <h2 class="mt-3 ml-3 text-white">Sign Up</h2>
     <p class="ml-3 text-white text-justify">
